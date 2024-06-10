@@ -1,0 +1,19 @@
+p {
+    background-color: #d6a2b8;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #b4f0a2;
+    font-size: 24px;
+    font-weight: bold;
+}
