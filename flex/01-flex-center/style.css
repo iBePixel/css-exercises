@@ -1,11 +1,17 @@
 .container {
   background: dodgerblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
 }
 
 .box {
+  display: flex;
+  align-items: center; 
+  align-self: center; 
   background: palevioletred;
   font-weight: bold;
   text-align: center;
